@@ -1,6 +1,6 @@
 {
   "name": "get_input_empty_fields",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -21,7 +21,6 @@
     "angular",
     "javascript"
   ],
-
   "author": "Pankaj Kumar",
   "license": "ISC",
   "description": "Easy to get multiple empty inputs fields for validations using getEmptyFields function",
