@@ -1,0 +1,27 @@
+{
+  "name": "get_input_empty_fields",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "validation",
+    "npm",
+    "input",
+    "empty",
+    "fields",
+    "form",
+    "get empty fields",
+    "input validation",
+    "react validation",
+    "nextjs",
+    "angular",
+    "javascript"
+  ],
+  "author": "Pankaj Kumar",
+  "license": "ISC",
+  "description": "Easy to get multiple empty inputs fields for validations using getEmptyFields function"
+}
