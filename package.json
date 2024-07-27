@@ -21,7 +21,12 @@
     "angular",
     "javascript"
   ],
+
   "author": "Pankaj Kumar",
   "license": "ISC",
-  "description": "Easy to get multiple empty inputs fields for validations using getEmptyFields function"
+  "description": "Easy to get multiple empty inputs fields for validations using getEmptyFields function",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pankajkumar34/getEmptyFields.git"
+  }
 }
