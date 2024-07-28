@@ -1,6 +1,6 @@
-# getEmptyFields
+# get_input_empty_fields
 
-`getEmptyFields` is a simple utility function designed to handle multiple empty input fields for validation purposes. It accepts an object (input names) as a parameter and returns an array of input names that have empty values.
+`get_input_empty_fields` is a simple utility function designed to handle multiple empty input fields for validation purposes. It accepts an object (input names) as a parameter and returns an array of input names that have empty values.
 
 
 
@@ -11,15 +11,17 @@ Git repository
 ```
 
 ## usage
-   ` const emptyFields = getEmptyFields(fields); // <==== getEmptyFields function for get empty inputs fields`
+   ` const emptyFields = getEmptyFields(fields); // <==== getEmptyFields function for getting empty input fields`
+`
+
 
 
 ## Installation
 
-Install getEmptyFields  use npm
+Install get_input_empty_fields  use npm
 
 ```bash
-  npm install getEmptyFields 
+  npm install get_input_empty_fields 
   
 ```
 ## import
@@ -27,8 +29,6 @@ Install getEmptyFields  use npm
     
 ## function 
 `const emptyFields = getEmptyFields(fields); // <==== getEmptyFields function for get empty inputs fields`
-
-
 
 
 ## Usage/Examples
