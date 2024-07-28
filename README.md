@@ -4,15 +4,15 @@
 
 
 
-
-Git repository
+## Git repository
 ```bash
   https://github.com/Pankajkumar34/getEmptyFields.git
 ```
 
+
 ## usage
-   ` const emptyFields = getEmptyFields(fields); // <==== getEmptyFields function for getting empty input fields`
-`
+   ` const emptyFields = getEmptyFields(fields);`
+
 
 
 
@@ -27,9 +27,6 @@ Install get_input_empty_fields  use npm
 ## import
     import { getEmptyFields } from get_input_empty_fields;
     
-## function 
-`const emptyFields = getEmptyFields(fields); // <==== getEmptyFields function for get empty inputs fields`
-
 
 ## Usage/Examples
 
