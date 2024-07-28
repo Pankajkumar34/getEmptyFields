@@ -1,6 +1,6 @@
 {
   "name": "get_input_empty_fields",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -23,5 +23,9 @@
   ],
   "author": "Pankaj Kumar",
   "license": "ISC",
-  "description": "Easy to get multiple empty inputs fields for validations using getEmptyFields function"
+  "description": "Easy to get multiple empty inputs fields for validations using getEmptyFields function",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pankajkumar34/getEmptyFields.git"
+  }
 }
